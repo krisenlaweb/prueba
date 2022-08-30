@@ -108,8 +108,9 @@ meter {
 
 .web-display-container{
     background-image: url('../img/kevin-chin-qDbaQGEwPtI-unsplash.jpg');
-    background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat;
+
 }
 
 .web-right-container{
