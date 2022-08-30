@@ -106,6 +106,37 @@ meter {
     -webkit-user-drag: element;
 }
 
+.web-display-container{
+    background-image: url('img/kevin-chin-qDbaQGEwPtI-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.web-right-container{
+    float: right;
+}
+
+.web-left-container {
+    float: left;
+}
+
+.content{
+    max-width:1920px;
+}
+
+.web-container {
+    margin: 8px;
+    padding: 12px;
+}
+.web-container-s {
+    margin: 4px;
+    padding: 6px;
+}
+.web-container-l {
+    margin: 12px;
+    padding: 24px;
+}
+
 .row::after {
     content: "";
     clear: both;
