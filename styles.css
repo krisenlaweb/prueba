@@ -107,7 +107,7 @@ meter {
 }
 
 .web-display-container{
-    background-image: url('img/kevin-chin-qDbaQGEwPtI-unsplash.jpg');
+    background-image: url('../img/kevin-chin-qDbaQGEwPtI-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -141,6 +141,14 @@ meter {
     content: "";
     clear: both;
     display: table;
+}
+
+.web-avatar{
+    max-width: 100%;
+    width: 150px;
+}
+.web-title_purple{
+    color: var(--font-primary-color);
 }
 
 /* For mobile phones: */
